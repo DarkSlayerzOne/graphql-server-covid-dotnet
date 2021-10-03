@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GQLServer.Data\GQLServer.Data.csproj" />
+    <ProjectReference Include="..\GQLServer.Domain\GQLServer.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
