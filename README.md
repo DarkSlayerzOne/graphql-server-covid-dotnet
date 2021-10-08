@@ -3,7 +3,7 @@
  
  The graphql server test covid19 data. The Covid 19 API was borrowed from [Rapid API](https://rapidapi.com/).
  
-To run the app it requires docker in your machine.
+To run the app it requires docker on your machine.
 
  <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" alt="drawing" style="width:100px;"/>
 
