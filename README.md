@@ -7,6 +7,9 @@ To run the app it requires docker on your machine.
 
  <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" alt="drawing" style="width:100px;"/>
 
+Register at RAPID API to get your api key
+
+
 
 ## Build the app
 ```docker
@@ -15,7 +18,7 @@ docker build -t gql-covid:latest .
 
 ## Run the app
 ```docker
-docker run -p 8300:8300 -d --name gql-covid gql-covid:latest
+docker run -p 8300:80 -d --name gql-covid gql-covid:latest
 ```
 
 ## Test the APP
