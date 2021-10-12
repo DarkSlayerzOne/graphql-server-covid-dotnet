@@ -7,8 +7,8 @@ To run the app it requires docker on your machine.
 
  <img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" alt="drawing" style="width:100px;"/>
 
-Register at RAPID API to get your api key
-
+## Register at RAPID API to get your api key
+- https://rapidapi.com/Gramzivi/api/covid-19-data/
 
 
 ## Build the app
